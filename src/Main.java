@@ -34,6 +34,7 @@ public class Main {
                     }else {
                         translator.translate(number);
                         break;
+
                     }
                 }
             }
